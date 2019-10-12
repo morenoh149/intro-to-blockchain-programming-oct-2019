@@ -4,8 +4,8 @@
   "description": "* `npm install http-server --global` * `http-server -p 7000`",
   "main": "index.js",
   "dependencies": {
-    "bitcore-lib": "^8.9.0",
-    "bitcore-p2p": "^8.7.0"
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^0.14.0"
   },
   "devDependencies": {},
   "scripts": {
