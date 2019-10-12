@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-blockchain-programming-in-js-oct-2019",
+  "version": "1.0.0",
+  "description": "* `npm install http-server --global` * `http-server -p 7000`",
+  "main": "index.js",
+  "dependencies": {
+    "bitcore-lib": "^8.9.0",
+    "bitcore-p2p": "^8.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morenoh149/intro-to-blockchain-programming-oct-2019.git"
+  },
+  "author": "Harry Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morenoh149/intro-to-blockchain-programming-oct-2019/issues"
+  },
+  "homepage": "https://github.com/morenoh149/intro-to-blockchain-programming-oct-2019#readme"
+}
