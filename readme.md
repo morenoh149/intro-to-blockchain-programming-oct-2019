@@ -1,10 +1,11 @@
-# intro to blockchain programming oct 2019
+# Intro to Blockchain Programming OCT 2019
 
 ## installation
 
-* `npm install http-server --global`
+* `npm install --global http-server`
+* `npm install`
 
-To run examples use `node`, e.g., `$ node create-address.js` will run the script.
+To run examples use `node`, e.g., `node create-address.js` will run the script.
 
 ## mycelium gear accept payments on website
 

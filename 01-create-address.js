@@ -1,4 +1,5 @@
-bitcore = require('bitcore-lib');
-privateKey = new bitcore.PrivateKey();
-address = privateKey.toAddress().toString();
+const bitcore = require('bitcore-lib');
+
+const privateKey = new bitcore.PrivateKey();
+const address = privateKey.toAddress().toString();
 console.log('address', address);
